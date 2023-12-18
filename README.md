@@ -1,5 +1,5 @@
 # Premier League Review of the Season 2022/2023
-![6](https://github.com/Sabacon/Premier-League-2022_23-Season-in-Review/assets/121859090/f3bcc7d8-d2a2-4d7d-a95e-859cd39bd70d)
+![gettyimages-1492288514-1024x1024](https://github.com/Sabacon/Premier-League-2022_23-Season-in-Review/assets/121859090/40834e45-350a-44c6-ba4c-0222c2148662)
 
 ### Problem definition/ Task
 Key results and statistics from the EPL 2022/23 season may be readily apparent to the keen supporter of English football. But even those of us who live and breathe football need a closer examination of the numbers after the fact is necessary to understand the full picture. Therefore, this is a data analysis project.
